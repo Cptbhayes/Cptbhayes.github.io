@@ -23,7 +23,7 @@ body {
 
 a {
   color: var(--linkColor);
-  text-decoration: underline;
+  text-decoration: none;
   margin-top: .2rem;
 }
 
