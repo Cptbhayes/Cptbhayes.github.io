@@ -23,7 +23,7 @@ for (var j = 0; j < allElements.length; j++) {
     if (char === "<") isTag = true;
     if (char === ">") isTag = false;
     if (isTag) return type();
-    setTimeout(type, 60);
+    setTimeout(type, 30);
   })();
 }
 
